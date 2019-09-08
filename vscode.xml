@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="VSCode">
+  <style name="Text" foreground="#cccccc" background="#1e1e1e"/>
+  <style name="Extra" foreground="#858585" background="#1e1e1e"/>
+  <style name="Selection" background="#555577"/>
+  <style name="CurrentLine" background="#1e1e1e"/>
+  <style name="MatchBrackets" background="#808080"/>
+  <style name="IndentLine" foreground="#008B8B"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="Keyword" foreground="#c586c0"/>
+  <style name="DataType" foreground="#4ec9b0" bold="false" />
+  <style name="Decimal" foreground="#b5cea8" bold="false"/>
+  <style name="BaseN" foreground="#6d9cbe"/>
+  <style name="Float" foreground="#6d9cbe"/>
+  <style name="Char" foreground="#55c2bb"/>
+  <style name="String" foreground="#ce9178"/>
+  <style name="Comment" foreground="#6a9955"/>
+  <style name="Alert" foreground="#ff0000"/>
+  <style name="Error" foreground="#ff0000"/>
+  <style name="Function" foreground="#dcdcaa"/>
+  <style name="RegionMarker" foreground="#cccccc"/>
+  <style name="Symbol" foreground="#bbbbbb"/>
+  <style name="BuiltinFunc" foreground="#dcdcaa"/>
+  <style name="Predeclared" foreground="#569cd6"/>
+  <style name="FuncDecl" foreground="#dcdcaa"/>
+  <style name="Placeholder" foreground="#c261c2"/>
+  <style name="ToDo" foreground="#6a9955"/>
+</style-scheme>
